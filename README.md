@@ -1,13 +1,15 @@
-#Repositório de Materiais de Estudo e Atividades – Infinity
+### Repositório de Materiais de Estudo – Infinity 🎓
 
-Este repositório centraliza todo o material relacionado às minhas aulas na Infinity, incluindo anotações de estudo, provas, atividades práticas, e outros recursos relevantes. É um espaço organizado para armazenar e acessar facilmente conteúdos essenciais para o acompanhamento e aprofundamento dos estudos.
-Aqui você encontrará:
+Bem-vindo(a)! Este repositório foi criado para centralizar meus materiais de aula da Infinity e, atendendo a pedidos de colegas, decidi compartilhá-lo para que todos possam aproveitar.
 
-**Notas de aula: Resumos e explicações detalhadas sobre os tópicos abordados.
+É um espaço organizado para armazenar e acessar facilmente conteúdos essenciais para o acompanhamento e aprofundamento dos estudos.
 
-**Provas e atividades: Exercícios, provas anteriores e tarefas realizadas, com resolução e comentários.
+### O que você encontrará aqui? 📂
 
-**Materiais complementares: Arquivos extras, links e referências adicionais para facilitar o aprendizado.
+* **📝 Notas de aula:** Resumos e explicações detalhadas sobre os tópicos abordados.
+* **✅ Provas e atividades:** Exercícios, provas anteriores e tarefas realizadas, com resolução e comentários.
+* **🔗 Materiais complementares:** Arquivos extras, links e referências adicionais para facilitar o aprendizado.
 
+O objetivo é ajudar a manter a organização e otimizar o processo de revisão, além de servir como um ponto de referência para consolidar nosso aprendizado.
 
-Este repositório tem como objetivo ajudar a manter a organização e otimizar o processo de revisão, além de servir como um ponto de referência para consolidar o aprendizado de maneira eficiente.
+Qualquer dúvida sobre o conteúdo, pode me perguntar! Estou à disposição para ajudar. 💬
