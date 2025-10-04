@@ -1,0 +1,12 @@
+from functools import reduce
+
+lista = [1,5,6,7,8]
+
+soma = reduce(lambda x,y: x+y,lista)
+
+'''
+O REDUCE SEMPRE RECEBE DOIS PARÂMETROS!! POIS VAI EXECUTAR UMA OPERAÇÃO ENTRE OS ELEMENTOS DA LISTA
+NÃO PRECISA DE LIST POIS RETORNA APENAS 1 NUMERO, PORTANTO NÃO SERÁ UMA LISTA
+'''
+
+
